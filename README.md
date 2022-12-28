@@ -1,8 +1,8 @@
 # Medidor de Temperatura y Humedad
 <div>
-<img align="left" height="430" src="https://github.com/lucasigna/Medidor-DHT11-ESP32/blob/main/Fotos%20y%20v%C3%ADdeos/cover.jpg">
+<img align="left" width="70%" src="https://github.com/lucasigna/Medidor-DHT11-ESP32/blob/main/Fotos%20y%20v%C3%ADdeos/cover.jpg">
 
-<img height="430" src="https://github.com/lucasigna/Medidor-DHT11-ESP32/blob/main/Fotos%20y%20v%C3%ADdeos/video-demo.gif">
+<img width="23%" src="https://github.com/lucasigna/Medidor-DHT11-ESP32/blob/main/Fotos%20y%20v%C3%ADdeos/video-demo.gif">
 </div>
 <hr/>
 
